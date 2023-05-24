@@ -1,0 +1,28 @@
+# Shortener
+
+Shortener is a Node API application that shortens URL and creates the shortest possible solution
+
+## Installation
+
+Use the node package manager [npm](https://www.npmjs.com/) to install Shortener.
+
+```bash
+npm install
+```
+
+## Usage
+
+`/short` [POST]
+Will return shortest possible URL
+Will receive a JSON with a url property
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
